@@ -1,4 +1,6 @@
-### Hi there 👋
+### 🦾 Mechatronics Engineering Student at Memorial University
+### 🛰️ Satellite Engineer at C-Core
+### Interested in Robotics and Mechatronics projects
 
 <!--
 **Jrmckim/Jrmckim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
