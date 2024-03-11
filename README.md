@@ -1,5 +1,5 @@
 ### 🦾 Mechatronics Engineering Student at Memorial University
-### 🛰️ Satellite Engineer at C-Core
+### 🛰️ Lead Systems Engineer at MUNStar-1 CubeSat
 ### 🤖 Interested in Robotics and Mechatronics projects
 
 <!--
